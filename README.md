@@ -1,4 +1,3 @@
 # Protein Structure Analysis: Mutation Impact on Stability
 
-Bir proteinin amino asit dizisinden 3D yapısını inceleyerek, belirli bir mutasyonun proteinin
-yapısı ve termodinamik stabilitesi üzerindeki etkisini analiz eden bir biyoinformatik projesi.
+A bioinformatics project that analyzes the structural and thermodynamic stability effects of specific mutations by examining a protein’s 3D structure derived from its amino acid sequence.
