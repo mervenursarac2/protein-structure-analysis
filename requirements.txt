@@ -1,0 +1,7 @@
+biopython>=1.83
+py3Dmol>=2.0
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+requests>=2.31
+jupyter>=1.0
