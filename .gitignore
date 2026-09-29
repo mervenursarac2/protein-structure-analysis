@@ -1,9 +1,29 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
 venv/
 .venv/
+env/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Buyuk/gecici veri dosyalari
 data/*.pdb
 data/*.cif
 !data/.gitkeep
+
+# Ucuncu parti araclar (kendi kodumuz degil)
+ddgun/
+
+# Buyuk gorsellestirme ciktilari (kod her zaman yeniden uretebilir)
+results/*.html
